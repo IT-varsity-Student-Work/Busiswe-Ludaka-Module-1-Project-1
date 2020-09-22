@@ -1,0 +1,17 @@
+table{
+    font-family: helvetica,sans-serif;
+    border-collapse:collapse;
+    border-width: 1px;
+    border-style:soild;
+    border-color: aquamarine;
+}
+
+th{
+    font-weight: bold;
+    background-color: lightskyblue;
+    border:black;
+}
+h1{
+    color: darkturquoise;
+        font-family:cursive;
+}
